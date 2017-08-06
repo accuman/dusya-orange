@@ -1,8 +1,8 @@
 <context>
-  <input pattern="(hi|hello) *">
-    <output value="Hi!"/>
-  </input>
-    <input pattern="ïðèâåò">
-        <output value="Ïðèâåòèê"/>
+    <input pattern="hi">
+        <output value="hi!"/>
+    </input>
+    <input pattern="Ð¿Ñ€Ð¸Ð²ÐµÑ‚">
+        <output value="ÐŸÑ€Ð¸Ð²ÐµÑ‚Ð¸Ðº"/>
     </input>
 </context>
